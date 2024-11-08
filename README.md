@@ -1,2 +1,3 @@
 # git-playground
-10주차 실습
+
+amend 실습하기
